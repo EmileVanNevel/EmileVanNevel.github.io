@@ -1,0 +1,71 @@
+<html>
+<head>
+<style>
+body {
+		color: white
+}
+div {
+    border: 1px solid gray;
+    padding: 50px;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: #4169e1;
+}
+
+	
+p {
+	color: white;
+    text-indent: 0px;
+    text-align: justify;
+    letter-spacing: 2px;
+}
+
+a {
+    text-decoration: none;
+    color: #4169e1;
+}
+</style>
+</head>
+
+
+<html>
+<head>
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4169e1;
+}
+</style>
+</head>
+
+Ik ben Emile Van nevel, 16 jaar oud. Ik woon in Lovendegem bij mijn papa en Roeselare bij mijn mama. Ik heb ook twee huisdieren, een kat (Britse Korthaar) en een hond (Pomeriaan).
+
+
+
+
